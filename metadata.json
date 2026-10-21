@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Track Dialogue Studio",
+  "description": "Synchronized multi-voice dialogue audio workstation with Gemini TTS, silence padding for Audacity, natural speech enhancer, and ambient gap distractions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
